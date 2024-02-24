@@ -1,0 +1,19 @@
+.imgHero{
+  width: 100%;
+}
+
+.navBrand{
+  color: white;
+}
+
+nav{
+margin-bottom: 20px;
+}
+
+.wrapperContent .card-title{
+  color: #EE4D2D;
+}
+
+.progress-bar{
+  background-color: #EE4D2D;
+}
